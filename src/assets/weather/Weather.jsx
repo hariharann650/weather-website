@@ -12,7 +12,7 @@ import rainIcon from '../rain.png';
 import snowIcon from '../snow.png';
 
 function Created({img, weatherdigit, area , latitudevalue ,mainweather, longitudevalue ,humidity, windspeed,country}){
-
+    console.log("testing");
   return( 
 
     <div className="main-content">
